@@ -6,7 +6,7 @@
 # 展示：
 
 注：
-开头两个裁判没用加到数据库，用作负样本展示；
+开头两个裁判没加到数据库，用作负样本展示；
 
 ![image](https://github.com/Sharpiless/Face-recognition-for-classroom-sign-in/blob/master/dst.gif)
 
