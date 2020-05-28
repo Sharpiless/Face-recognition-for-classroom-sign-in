@@ -7,6 +7,7 @@
 
 注：
 开头两个裁判没加到数据库，用作负样本展示；
+
 AND 开头稍长，请耐心看完hahh，后面还是挺有意思的一个小视频。
 
 ![image](https://github.com/Sharpiless/Face-recognition-for-classroom-sign-in/blob/master/dst.gif)
