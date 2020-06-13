@@ -41,6 +41,6 @@ AND 开头稍长，请耐心看完hahh，后面还是挺有意思的一个小视
 
 联系我时请备注所需模型权重，我会拉你进交流群~
 
-该群会定时分享源码和模型，之前分享过的请从群文件中下载~
+该群会定时分享各种源码和模型，之前分享过的请从群文件中下载~
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200613141749103.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkzNjg4OQ==,size_16,color_FFFFFF,t_70)
